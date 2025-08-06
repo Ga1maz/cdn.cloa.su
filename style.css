@@ -893,7 +893,7 @@ body {
 }
 
 .checkbox-wrapper-4 .cbx:hover span:first-child {
-    border-color: #f2853c
+    border-color: #3cf24b
 }
 
 .checkbox-wrapper-4 .inp-cbx {
@@ -902,8 +902,8 @@ body {
 }
 
 .checkbox-wrapper-4 .inp-cbx:checked+.cbx span:first-child {
-    background: #f2853c;
-    border-color: #f2853c;
+    background: #3cf23c;
+    border-color: #3cf24e;
     animation: wave-4 .4s ease
 }
 
@@ -941,19 +941,19 @@ body {
 }
 
 .selection\:bg-orange-800\/10 *::-moz-selection {
-    background-color: #9a34121a
+    background-color: #129a221a
 }
 
 .selection\:bg-orange-800\/10 *::selection {
-    background-color: #9a34121a
+    background-color: #349a121a
 }
 
 .selection\:bg-orange-800\/10::-moz-selection {
-    background-color: #9a34121a
+    background-color: #2b9a121a
 }
 
 .selection\:bg-orange-800\/10::selection {
-    background-color: #9a34121a
+    background-color: #129a2b1a
 }
 
 .hover\:opacity-60:hover {
